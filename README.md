@@ -15,4 +15,4 @@ Add this to your pubspec.yaml:
 
 ```yaml
 dependencies:
-  story_box: ^0.0.1
+  story_box: ^0.0.2
